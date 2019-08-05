@@ -1,0 +1,16 @@
+{
+  "name": "@lcbapp/stylelint-config-lcb",
+  "version": "1.0.0",
+  "description": "Shop standard Stylelint styles for CSS/LESS for LCB",
+  "main": ".stylelintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcbapp/stylelint-config-lcb.git"
+  },
+  "author": "Tomas Benda",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-standard"        : "^18.3.0",
+    "stylelint"                        : "^10.1.0"
+  }
+}
