@@ -1,6 +1,6 @@
 {
   "name": "@lcbapp/stylelint-config-lcb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shop standard Stylelint styles for CSS/LESS for LCB",
   "main": ".stylelintrc.js",
   "repository": {

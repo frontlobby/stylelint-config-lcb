@@ -18,6 +18,10 @@ module.exports = {
 		}],
 
 		"declaration-colon-space-before" : null,		// interferes with juuxstar/declaration-block-align-values
-		"lcbapp/declaration-block-align-values" : true
+		"lcbapp/declaration-block-align-values" : true,
+
+		// enforce kebab-case for ids and class names
+		"selector-class-pattern" : "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$",
+		"selector-id-pattern"    : "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$",
 	}
 }
