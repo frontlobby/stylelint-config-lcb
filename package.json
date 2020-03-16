@@ -10,7 +10,7 @@
   "author": "Tomas Benda",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-standard" : "^18.3.0",
-    "stylelint"                 : "^10.1.0"
+    "stylelint-config-standard" : "^20.0.0",
+    "stylelint"                 : "^13.2.1"
   }
 }
