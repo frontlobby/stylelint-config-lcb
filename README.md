@@ -1,1 +1,1 @@
-Shop standard Stylelint styles for CSS/LESS for LCB
+Shop standard Stylelint styles for CSS/SCSS for FrontLobby

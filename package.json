@@ -1,8 +1,8 @@
 {
-  "name": "@lcbapp/stylelint-config-lcb",
-  "version": "1.0.5",
-  "description": "Shop standard Stylelint styles for CSS/LESS for LCB",
-  "main": ".stylelintrc.js",
+  "name": "@frontlobby/stylelint-config-lcb",
+  "version": "2.0.0",
+  "description": "Shop standard Stylelint styles for SCSS for FrontLobby",
+  "main": "stylelintrc.mjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lcbapp/stylelint-config-lcb.git"
@@ -10,8 +10,6 @@
   "author": "Tomas Benda",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-order": "^4.1.0",
-    "stylelint": "^13.2.1"
+    "stylelint-config-standard-scss": "^14.0.0"
   }
 }
